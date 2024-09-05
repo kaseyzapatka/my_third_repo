@@ -4,3 +4,7 @@ add another test line
 
 adding a second line
 
+
+# About 
+This is a project repo that can be used to illustrate merging. 
+
